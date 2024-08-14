@@ -1,9 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "images": [
+    { "url": "https://img.goodfon.com/original/3840x2400/4/c0/wallpaper-sport-logo-basketball-nba-cleveland-cavaliers-1.jpg" },
+    { "url": "https://img.goodfon.com/original/3840x2400/6/63/wallpaper-sport-logo-basketball-nba-new-orleans-pelicans-1.jpg" },
+    { "url": "https://c4.wallpaperflare.com/wallpaper/386/386/519/basketball-boston-celtics-logo-nba-wallpaper-preview.jpg" },
+    { "url": "https://wallpapers.com/images/hd/philadelphia-76ers-flag-zu8n2sqbern5peel.jpg" },
+    { "url": "https://images.alphacoders.com/971/971206.jpg" },
+    { "url": "https://images.alphacoders.com/971/971206.jpg" },
+    { "url": "https://wallpaper.forfun.com/fetch/dd/dde2a5dd12b621f2957c6588010919cd.jpeg" },
+    { "url": "https://wallpapers.com/images/hd/phoenix-suns-on-metal-screen-mesh-t7deflifg8y3uopp.jpg" },
+    { "url": "https://images8.alphacoders.com/971/971316.jpg" },
+    { "url": "https://images.alphacoders.com/971/971220.jpg" },
+    { "url": "https://wallpapers.com/images/hd/golden-state-warriors-logo-pqz9td3l5vcief7h.jpg" }
+  ]
 }
